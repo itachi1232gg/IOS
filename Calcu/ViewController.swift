@@ -30,6 +30,10 @@ class ViewController: UIViewController {
         
     }
     
+    func f(){
+        
+    }
+    
     private var displayValue: Double {
         get{
             return Double(display.text!)!
