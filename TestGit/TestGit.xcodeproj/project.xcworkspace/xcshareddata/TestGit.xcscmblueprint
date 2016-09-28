@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "913A2C3DBB572CC355C83A9EE40BBBEBF1C84B27",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "913A2C3DBB572CC355C83A9EE40BBBEBF1C84B27" : 0,
+    "A4BA4B216B4B405452B597ECCE1CD85FBF9694A0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB37A5FF-410B-405A-AF41-4A9F83C58A91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "913A2C3DBB572CC355C83A9EE40BBBEBF1C84B27" : "IOS\/",
+    "A4BA4B216B4B405452B597ECCE1CD85FBF9694A0" : "..\/Desktop\/untitled%20folder\/Calcu"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestGit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestGit\/TestGit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/itachi1232gg\/IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "913A2C3DBB572CC355C83A9EE40BBBEBF1C84B27"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/itachi1232gg\/IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4BA4B216B4B405452B597ECCE1CD85FBF9694A0"
+    }
+  ]
+}
