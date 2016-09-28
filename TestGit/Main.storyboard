@@ -249,17 +249,17 @@
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sD9-qQ-Rxq">
                                                         <rect key="frame" x="342" y="0.0" width="104" height="100"/>
                                                         <color key="backgroundColor" red="0.84423645079999998" green="0.79445335279999996" blue="0.84784031410000005" alpha="1" colorSpace="calibratedRGB"/>
-                                                        <state key="normal" title="."/>
+                                                        <state key="normal" title="save"/>
                                                         <connections>
-                                                            <action selector="performOperation:" destination="FIC-J3-9ET" eventType="touchUpInside" id="2sz-fE-ahN"/>
+                                                            <action selector="saveProgram" destination="FIC-J3-9ET" eventType="touchUpInside" id="1vL-TQ-uYp"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YOk-9J-2ap">
                                                         <rect key="frame" x="456" y="0.0" width="104" height="100"/>
                                                         <color key="backgroundColor" red="0.84423645079999998" green="0.79445335279999996" blue="0.84784031410000005" alpha="1" colorSpace="calibratedRGB"/>
-                                                        <state key="normal" title="."/>
+                                                        <state key="normal" title="restore"/>
                                                         <connections>
-                                                            <action selector="performOperation:" destination="FIC-J3-9ET" eventType="touchUpInside" id="800-tW-vTK"/>
+                                                            <action selector="restoreProgram" destination="FIC-J3-9ET" eventType="touchUpInside" id="qoX-RJ-FkN"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ec4-tf-n8j">
@@ -309,23 +309,23 @@
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
-                                <exclude reference="VXF-qf-eSU"/>
-                                <exclude reference="Q6H-XV-Mpe"/>
-                                <exclude reference="YQu-P2-44F"/>
-                                <exclude reference="HCb-Tv-tT0"/>
-                                <exclude reference="Gxf-z6-O5W"/>
-                                <exclude reference="hEp-F4-DuA"/>
-                                <exclude reference="bRv-sc-Ohh"/>
-                                <exclude reference="Syo-10-jmS"/>
-                                <exclude reference="cUQ-Xi-igR"/>
-                                <exclude reference="clP-p1-43N"/>
-                                <exclude reference="caU-y4-83N"/>
-                                <exclude reference="qvZ-7s-X4C"/>
                                 <exclude reference="FZE-5b-Y3x"/>
+                                <exclude reference="Gxf-z6-O5W"/>
+                                <exclude reference="HCb-Tv-tT0"/>
+                                <exclude reference="Q6H-XV-Mpe"/>
+                                <exclude reference="Syo-10-jmS"/>
+                                <exclude reference="VXF-qf-eSU"/>
+                                <exclude reference="YQu-P2-44F"/>
+                                <exclude reference="bRv-sc-Ohh"/>
+                                <exclude reference="cUQ-Xi-igR"/>
+                                <exclude reference="caU-y4-83N"/>
+                                <exclude reference="clP-p1-43N"/>
+                                <exclude reference="hEp-F4-DuA"/>
+                                <exclude reference="qvZ-7s-X4C"/>
                                 <exclude reference="UJp-pQ-chT"/>
                                 <exclude reference="aCy-b1-sun"/>
-                                <exclude reference="k2h-vF-qFl"/>
                                 <exclude reference="h4R-bE-G3o"/>
+                                <exclude reference="k2h-vF-qFl"/>
                             </mask>
                         </variation>
                     </view>
